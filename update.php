@@ -1,8 +1,8 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"2.1",
+"Version":"2.3",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/pokmon2499/2020/raw/main/pokvpn.zip" ,
+"Url":"https://github.com/pokmon2499/2020/raw/main/pok2488.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (28/10/2020)
 รองรับ ซิม TRUE & DTAC
