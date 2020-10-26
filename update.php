@@ -2,7 +2,7 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"7.1",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/pokmon2499/2020/raw/main/2020.zip" ,
+"Url":"https://github.com/pokmon2499/2020/raw/main/vip.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (28/05/2020)
 รองรับ ซิม TRUE & DTAC
