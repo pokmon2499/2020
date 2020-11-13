@@ -1,6 +1,6 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"12.0",
+"Version":"12.5",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/pokmon2499/2020/raw/main/vip2r.zip" ,
 "Changelog":"
@@ -10,6 +10,7 @@
 TRUE โปร Social
 TRUE โปร Facebook
 TRUE โปร LINE
+TRUE โปร youtube
 มีไฟล์ VPS Vip
 มีไฟล์Vipเซิฟไทย AOTO
  By.PokVpn Pro
