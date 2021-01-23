@@ -1,18 +1,17 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"17.0",
+"Version":"20.0",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/pokmon2499/2020/raw/main/vip2r.zip" ,
 "Changelog":"
-ตรวจพบไฟล์ใหม่ประจำวันที่ (24/12/2020)
+ตรวจพบไฟล์ใหม่ประจำวันที่ (23/01/2021)
 
 โปรที่รองรับสำหรับซิม TRUE 
     มีดังนี้
-TRUE โปร Social
-TRUE โปร Facebook
-TRUE โปร LINE
-TRUE โปร youtube
- อัปเดทใหม่ทั้วหมด 34 ไฟล์
+TRUEDTAC โปร Social
+TRUEDTAC โปร Facebook
+TRUEDTAC โปร LINE
+ อัปเดทใหม่ทั้วหมด 100 ไฟล์
  มีไฟล์ VPS Vip
  มีไฟล์Vipเซิฟไทย AOTO
  
